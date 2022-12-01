@@ -1,2 +1,3 @@
-# adventjs
-Adventjs solutions from https://adventjs.dev/ 
+# Adventjs solutions
+
+Adventjs solutions for https://adventjs.dev/
