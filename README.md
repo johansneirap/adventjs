@@ -9,7 +9,7 @@ Hi! This repo was made for storing solutions for [Adventjs.dev](https://adventjs
 |----------------|-----------------|--------|----------------|---|
 |01-12|Automating Christmas gift wrapping!| 🟩 Easy |[![Challenge1](https://adventjs.dev/challenges-2022/1.svg)](https://adventjs.dev/challenges/2022/1)| [JS Solution](./2022/challenge01/index.js)|
 |02-12|Nobody wants to do extra hours at work| 🟩 Easy |[![Challenge2](https://adventjs.dev/challenges-2022/2.svg)](https://adventjs.dev/challenges/2022/2)| [JS Solution](./2022/challenge02/index.js)|
-|03-12|Coming soon...| 🟩 Easy |[![Challenge3](https://adventjs.dev/challenges-2022/3.svg)](https://adventjs.dev/challenges/2022/3)| [JS Solution](./2022/challenge03/index.js)|
+|03-12|How many packs of gifts can Santa carry?| 🟩 Easy |[![Challenge3](https://adventjs.dev/challenges-2022/3.svg)](https://adventjs.dev/challenges/2022/3)| [JS Solution](./2022/challenge03/index.js)|
 |04-12|Coming soon...|Coming soon...|[![Challenge4](https://adventjs.dev/challenges-2022/4.svg)](https://adventjs.dev/challenges/2022/4)|
 |05-12|Coming soon...|Coming soon...|[![Challenge5](https://adventjs.dev/challenges-2022/5.svg)](https://adventjs.dev/challenges/2022/5)|
 |06-12|Coming soon...|Coming soon...|[![Challenge6](https://adventjs.dev/challenges-2022/6.svg)](https://adventjs.dev/challenges/2022/6)|
