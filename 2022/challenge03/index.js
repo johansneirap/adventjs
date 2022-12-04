@@ -19,7 +19,7 @@ Gifts and reindeers names length will always be greater than 0.
 
 function distributeGifts(packOfGifts, reindeers) {
   return Math.trunc(
-    (reindeers.join().replaceAll(',', '').length * 2) /
-      packOfGifts.join().replaceAll(',', '').length
+    (reindeers.join('').length * 2) /
+      packOfGifts.join('').length
   );
 }
